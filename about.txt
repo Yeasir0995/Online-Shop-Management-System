@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<title>About us</title>
+<link rel="stylesheet"  href="Style/style.css">
+</head>
+<body  background="header_image.jpg">
+	<header>
+	<div class="container">
+		<div class="minimo">
+			<h1>RASS</h1>
+		</div>
+		
+		<div class="Lifestyle">
+			<h3>&nbsp;&nbsp;&nbsp;&nbsp;HOME</h3>
+		</div>
+		
+		<div class="Lifestyle">
+			<h3>&nbsp;&nbsp;&nbsp;&nbsp;LOGIN</h3>
+		</div>
+		
+	</div>
+</header>
+<section>
+	<div class="image-section">
+		<div class="container">
+			<img src="rass.jpg" style="width:100%;height:350px;">
+		</div>
+	</div>
+</section>
+
+<article>
+	<div class="about-head">
+		<div class="container1">
+		
+		<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who we are!!!</h1>
+		<p><h3> RASS is an online marketplace in Bangladesh.RASS provides immediate and easy access to four catagories of products.These are Cars,Electronic device,Baby products & Cloths.
+we have made this Web page for our web technologies project.</h3>
+
+		</p>
+	</div>
+	</div>
+	
+	<section>
+	<div class="image-section">
+		<div class="container">
+			<img src="66u.jpg" style="width:100%;height:350px;">
+		</div>
+	</div>
+</section>
+
+
+</article>
+
+</div>
+	<footer style="background-color: green;">
+		<div class="container">
+			<div class="footers">
+			<h4>Terms Conditions</h4>
+			<h4>Privacy</h4>
+		</div>
+	</div>
+	</footer>
+
+	
+</body>
+</html>
