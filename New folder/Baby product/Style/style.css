@@ -1,0 +1,96 @@
+
+{
+ 	margin: 0;
+ }
+body{}
+.container {
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 10px;
+
+
+}
+.minimo{
+	width: 40%;
+float: left;
+margin-bottom: 10px;
+padding: 10px 10px;
+}
+.Lifestyle {
+
+    width: 12%;
+    float: left;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    margin-top: 6px;
+
+}
+.image-section img{
+	width: 1000px;
+	height: 500px;
+	margin-bottom: 80px;
+}
+.container1 {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 80px;
+}
+.image1 {
+    width: 40%;
+    float: left;
+    padding-right: 126px;
+    padding-left: 51px;
+    line-height: 30px;
+    margin-bottom: 56px;
+}
+.image2{
+	width: 40%;
+	float: left;
+	margin: auto;
+	line-height: 30px;
+
+}
+.container2{
+	width: auto;
+	margin-bottom: 70px;
+	
+}
+.signup {
+    margin: auto;
+  line-height: 40px;
+    background-color: gray;
+}
+.signup h6{
+	text-decoration: none;
+	border-bottom: 1px solid;
+	display: inline-block;
+}
+.c1 {
+	text-align: center;
+
+}
+.c1 h6{
+	padding-right: 124px;
+}
+
+.footers{
+	padding-left: 51px;
+	line-height: 100px;
+}
+.footers h4{
+    float: left;
+    padding-right: 50px;
+
+}
+.article-img p{
+      line-height: 18px;
+}
+.about-head h4 {
+     line-height: 60px;
+}
+.about-head h1{
+	line-height: 70px;
+}
